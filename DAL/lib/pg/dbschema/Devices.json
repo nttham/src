@@ -1,0 +1,6 @@
+{
+  "tableName":"Devices",
+  "createstmt":"CREATE TABLE IF NOT EXISTS",
+  "columnNames":"(deviceId text not null, userId text, deviceToken text,platform text,createdTime text,lastupdatedtime text,createdMode text,isBlackListed BOOLEAN,version text)"
+
+}

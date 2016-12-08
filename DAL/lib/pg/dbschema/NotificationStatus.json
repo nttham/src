@@ -1,0 +1,7 @@
+{
+  "tableName":"NotificationStatus",
+  "createstmt":"CREATE TABLE IF NOT EXISTS",
+  "columnNames":"(message text , channelname text,deviceToken text,settings text,template text,dbName text,numberOfTrails text,lastUpdated bigint,platform text,status text,transcationID text)"
+}
+
+

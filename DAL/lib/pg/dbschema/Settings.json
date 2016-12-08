@@ -1,0 +1,7 @@
+{
+  "tableName":"Settings",
+  "createstmt":"CREATE TABLE IF NOT EXISTS",
+  "columnNames":"(gcmApiKey text , apnsPassword text, apnsCertificate text,isProduction BOOLEAN,wnsClientId text,wnsClientSecret text,sendgridAccountID text,sendgridAccountToken text,twilioAccountID text,twilioAccountToken text,twilioFromNumber text,instanceID text)"
+}
+
+

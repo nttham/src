@@ -1,0 +1,5 @@
+{
+  "tableName":"Scheduler",
+  "createstmt":"CREATE TABLE IF NOT EXISTS",
+  "columnNames":"(notificationId text , status text, requestObject text,timeStamp text,body text)"
+}
